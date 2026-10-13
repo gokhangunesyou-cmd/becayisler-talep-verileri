@@ -25,3 +25,27 @@ Veri yalnızca Becayişler’deki aktif ilanları kapsar. Türkiye genelindeki t
 Dosyada kişi adı, e-posta, telefon, ilan metni veya ilan kimliği bulunmaz. Kaynak belirtirken veri alım zamanını, platform kapsamını ve [yöntem sayfasını](https://becayisler.com/becayis-verileri) birlikte kullanın.
 
 Veri kapsamı ve düzeltme talepleri: [Becayişler iletişim](https://becayisler.com/iletisim).
+
+## 10 Ekim 2026: tarihli veri notu
+
+10 Ekim 2026 saat 09.28 Türkiye saati / 06.28 UTC kesitinde 136 aktif ilan grubu bulunuyordu. Çoklu hedef il ve ilçeler ayrı ilan olarak sayılmadı.
+
+| Boyut | Kategori | Aktif ilan grubu |
+|---|---|---:|
+| Mevcut il | İstanbul | 22 |
+| Mevcut il | Van | 16 |
+| Mevcut il | Diyarbakır | 14 |
+| Kurum | Sağlık Bakanlığı | 69 |
+| Kurum | Millî Eğitim Bakanlığı | 26 |
+| Kurum | Yükseköğretim Kurumları | 13 |
+| Meslek | Hemşire | 39 |
+| Meslek | Tıbbi Sekreter | 11 |
+| Meslek | İngilizce Öğretmenliği | 9 |
+
+[Tüm dağılımlar, tarihli CSV ve sayım yöntemi](https://becayisler.com/becayis-verileri/2026-10-10). Bu kesit yalnızca Becayişler platformundaki kullanıcı beyanlarını kapsar; Türkiye geneli istatistik, tamamlanan tayin veya büyüme oranı değildir.
+
+### Kaynak gösterme örneği
+
+Becayişler, “10 Ekim 2026 Becayiş Talep Verileri”, veri alım zamanı 10 Ekim 2026 09.28 (UTC+3), https://becayisler.com/becayis-verileri/2026-10-10 .
+
+İlan arayanlar için [güncel becayiş ilanları](https://becayisler.com/); filtrelenebilir [tüm ilanlar](https://becayisler.com/becayis-ilanlari).
